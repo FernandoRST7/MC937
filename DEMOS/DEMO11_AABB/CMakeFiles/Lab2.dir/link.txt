@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Lab2.dir/main.cpp.o -o Lab2  /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.4 /usr/lib/x86_64-linux-gnu/libGLEW.so
